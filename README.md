@@ -11,7 +11,7 @@ We publish public, aggregated data on the DNS traffic that reaches the authorita
 ## Known issues
 
 1. **2026-03-31** — no data (missing day).
-2. The metric `num-sources-ipv6-aggregate` (in the `*unique-sources.yaml` files) is only available from **2025-04-05** onward. For earlier dates it was computed incorrectly (see [bug](https://github.com/SIDN/entrada-rssac002/commit/11182894906c93888ecbef929df4e3bca2701820)) and has been removed rather than corrected: we no longer have the historical raw data to recompute it, so no values are provided for that period. The other metrics are unaffected.
+2. The metric `num-sources-ipv6-aggregate` (in the `*unique-sources.yaml` files) is only available from **2025-04-06** onward. For earlier dates it was computed incorrectly (see [bug](https://github.com/SIDN/entrada-rssac002/commit/11182894906c93888ecbef929df4e3bca2701820)) and has been removed rather than corrected: we no longer have the historical raw data to recompute it, so no values are provided for that period. The other metrics are unaffected.
 
 ## License
 
