@@ -1,0 +1,12 @@
+version: rssac002v5
+service: nl_servers
+metric: rcode-volume
+start-period: '2025-09-12T00:00:00+00:00'
+-1: 19146651
+0: 4873195829
+1: 5900
+2: 35
+3: 556798669
+4: 100
+5: 335
+9: 4715

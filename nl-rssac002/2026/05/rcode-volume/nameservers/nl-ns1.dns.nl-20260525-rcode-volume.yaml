@@ -1,0 +1,11 @@
+version: rssac002v5
+service: nl_servers-ns1.dns.nl
+metric: rcode-volume
+start-period: '2026-05-25T00:00:00+00:00'
+-1: 26189
+0: 2574418889
+1: 463
+3: 394138856
+4: 283
+5: 158
+9: 2963

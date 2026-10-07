@@ -1,0 +1,7 @@
+version: rssac002v5
+service: nl_servers
+metric: unique-sources
+start-period: '2025-10-28T00:00:00+00:00'
+num-sources-ipv4: 1438720
+num-sources-ipv6: 264361
+num-sources-ipv6-aggregate: 80975

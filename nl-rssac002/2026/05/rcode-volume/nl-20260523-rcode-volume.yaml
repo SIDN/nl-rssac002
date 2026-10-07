@@ -1,0 +1,13 @@
+version: rssac002v5
+service: nl_servers
+metric: rcode-volume
+start-period: '2026-05-23T00:00:00+00:00'
+-1: 30500342
+0: 6761362499
+1: 921
+2: 550
+3: 845465495
+4: 211
+5: 280
+7: 663084
+9: 5532

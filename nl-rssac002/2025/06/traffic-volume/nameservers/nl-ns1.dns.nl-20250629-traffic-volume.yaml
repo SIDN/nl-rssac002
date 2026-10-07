@@ -1,0 +1,12 @@
+version: rssac002v5
+service: nl_servers-ns1.dns.nl
+metric: traffic-volume
+start-period: '2025-06-29T00:00:00+00:00'
+dns-udp-queries-received-ipv4: 1430466536
+dns-udp-queries-received-ipv6: 561262932
+dns-tcp-queries-received-ipv4: 18213821
+dns-tcp-queries-received-ipv6: 18278637
+dns-udp-responses-sent-ipv4: 1430574767
+dns-udp-responses-sent-ipv6: 561313220
+dns-tcp-responses-sent-ipv4: 16823372
+dns-tcp-responses-sent-ipv6: 18288361
